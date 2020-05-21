@@ -16,6 +16,6 @@ public class SpringConfig {
 
     @Bean(name="gpRpcServer")
     public GpRpcServer gpRpcServer(){
-        return new GpRpcServer(8080);
+        return new GpRpcServer(8081);
     }
 }

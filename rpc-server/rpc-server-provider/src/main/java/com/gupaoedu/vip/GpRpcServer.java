@@ -42,6 +42,7 @@ public class GpRpcServer implements ApplicationContextAware,InitializingBean {
 
     @Override
     public void afterPropertiesSet() throws Exception {
+        System.out.println("afterPropertiesSet");
         //接收客户端的链接
         EventLoopGroup bossGroup=new NioEventLoopGroup();
         //处理已经被接收的链接
@@ -67,6 +68,7 @@ public class GpRpcServer implements ApplicationContextAware,InitializingBean {
 
     @Override
     public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
+        System.out.println("setApplicationContext");
         Map<String,Object> serviceBeanMap=applicationContext.getBeansWithAnnotation(RpcService.class);
         if(!serviceBeanMap.isEmpty()){
             for(Object servcieBean:serviceBeanMap.values()){

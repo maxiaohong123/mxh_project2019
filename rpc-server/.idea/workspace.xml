@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04eae762-be47-4c5e-903a-9fbd2d96b9cb" name="Default" comment="" />
+    <list default="true" id="04eae762-be47-4c5e-903a-9fbd2d96b9cb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/rpc-server-provider/src/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mic-2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mic-2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mic-2019/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mic-2019/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mic-2019/src/main/java/com/mxh/demo/chapter17/CuratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mic-2019/src/main/java/com/mxh/demo/chapter17/CuratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc-client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc-client/src/main/java/com/gupaoedu/rpc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc-client/src/main/java/com/gupaoedu/rpc/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc-client/src/main/java/com/gupaoedu/rpc/RpcNetTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc-client/src/main/java/com/gupaoedu/rpc/RpcNetTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc-client/src/main/java/com/gupaoedu/rpc/discovery/ZkConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc-client/src/main/java/com/gupaoedu/rpc/discovery/ZkConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc-client/target/classes/com/gupaoedu/rpc/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc-client/target/classes/com/gupaoedu/rpc/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc-client/target/classes/com/gupaoedu/rpc/RpcNetTransport.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc-client/target/classes/com/gupaoedu/rpc/RpcNetTransport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc-client/target/classes/com/gupaoedu/rpc/discovery/ZkConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc-client/target/classes/com/gupaoedu/rpc/discovery/ZkConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc-server-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-server-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc-server-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-server-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/ZkConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/ZkConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc-server-provider/target/classes/com/gupaoedu/vip/GpRpcServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-server-provider/target/classes/com/gupaoedu/vip/GpRpcServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc-server-provider/target/classes/com/gupaoedu/vip/GpRpcServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-server-provider/target/classes/com/gupaoedu/vip/GpRpcServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc-server-provider/target/classes/com/gupaoedu/vip/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-server-provider/target/classes/com/gupaoedu/vip/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc-server-provider/target/classes/com/gupaoedu/vip/registry/ZkConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-server-provider/target/classes/com/gupaoedu/vip/registry/ZkConfig.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/rpc-server-api/target/" />
@@ -24,8 +48,8 @@
       <file leaf-file-name="Bootstrap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/Bootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="390">
+              <caret line="13" column="73" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,10 +60,28 @@
       <file leaf-file-name="GpRpcServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-206">
-              <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+            <state relative-caret-position="525">
+              <caret line="58" column="59" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1301#1302#0" expanded="true" />
+                <element signature="e#1333#1334#0" expanded="true" />
+                <element signature="e#1774#2314#0" expanded="true" />
+                <element signature="e#2313#2314#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/SpringConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="13" column="47" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,8 +90,8 @@
       <file leaf-file-name="IRegistryCenter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/IRegistryCenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="155">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -57,8 +99,8 @@
       <file leaf-file-name="RegistryCenterWithZk.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/RegistryCenterWithZk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,54 +108,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RpcProxyServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/RpcProxyServer.java">
+      <file leaf-file-name="ProcessorHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/ProcessorHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="200">
+              <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PaymentServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/PaymentServiceImpl.java">
+      <file leaf-file-name="HelloServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/HelloServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="379">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpringConfig.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/SpringConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-              <folding>
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZkConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/ZkConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rpc-server-provider/pom.xml">
+      <file leaf-file-name="HelloServiceImpl2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/HelloServiceImpl2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="488">
-              <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="685">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -127,6 +158,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>builderDefaultData</find>
+      <find>defaultData</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -134,8 +171,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/rpc-server-api/src/main/java/com/gupaoedu/vip/User.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/SpringConfig.java" />
         <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/RpcProxyServer.java" />
         <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/App.java" />
         <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/RpcService.java" />
@@ -149,10 +184,14 @@
         <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/Bootstrap.java" />
         <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/Test.java" />
         <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/IRegistryCenter.java" />
-        <option value="$PROJECT_DIR$/rpc-server-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/rpc-server-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/ZkConfig.java" />
-        <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/RegistryCenterWithZk.java" />
+        <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/SpringConfig.java" />
         <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java" />
+        <option value="$PROJECT_DIR$/rpc-server-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/RegistryCenterWithZk.java" />
+        <option value="$PROJECT_DIR$/rpc-server-provider/src/readme.txt" />
       </list>
     </option>
   </component>
@@ -165,9 +204,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\repository" />
-        <option name="mavenHome" value="E:/software/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="E:\software\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="localRepository" value="D:\maven-repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -182,34 +221,6 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="rpc-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rpc-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rpc-server-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rpc-server-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rpc-server-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rpc-server-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rpc-server-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -263,7 +274,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -327,30 +338,23 @@
               <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
               <item name="vip" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rpc-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc-server" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc-server-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/gupao/2019期录播视频及资料/08.分布式服务治理zk/01.zookeeper应用服务实战/课堂源码/20190710/rpc-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mic-2019" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -469,46 +473,49 @@
       <workItem from="1562754529475" duration="802000" />
       <workItem from="1562767049345" duration="4061000" />
       <workItem from="1589625657122" duration="602000" />
+      <workItem from="1589958557040" duration="179000" />
+      <workItem from="1589958796399" duration="1152000" />
+      <workItem from="1589959964621" duration="1506000" />
+      <workItem from="1589961974252" duration="22233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14107000" />
+    <option name="totallyTimeSpent" value="39177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.21145375" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.2529349" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.025080042" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39327148" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.73085845" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.12555066" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24862486" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2289221" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24546425" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3364269" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32928804" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.71365637" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="LuaJ" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Maven" order="10" weight="0.124060154" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32946634" />
     </layout>
@@ -535,7 +542,6 @@
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.2529412" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32946634" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22663802" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -544,6 +550,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32946634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33737865" />
     </layout-to-restore>
   </component>
@@ -552,6 +559,37 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/RegistryCenterWithZk.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/ProcessorHandler.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/Bootstrap.java">
@@ -566,11 +604,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="1290">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/IRegistryCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/RegistryCenterWithZk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/RpcProxyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/PaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/ZkConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/SpringConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -622,113 +734,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-api/pom.xml">
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/Test.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0-sources.jar!/org/apache/curator/framework/api/PathAndBytesable.java" />
+    <entry file="file://$PROJECT_DIR$/rpc-server-api/src/main/java/com/gupaoedu/vip/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/RpcService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="180">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rpc-server-api/src/main/java/com/gupaoedu/vip/IPaymentService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="270">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="76" column="21" selection-start-line="73" selection-start-column="7" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rpc-server-api/src/main/java/com/gupaoedu/vip/IHelloService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="210">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/HelloServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/HelloServiceImpl2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rpc-server-api/src/main/java/com/gupaoedu/vip/RpcRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="1020">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/ProcessorHandler.java">
+    <entry file="file://D:/maven-repository/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="463">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/Test.java" />
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/ZkConfig.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="1763">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0-sources.jar!/org/apache/curator/framework/api/PathAndBytesable.java" />
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/Bootstrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/IRegistryCenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/RegistryCenterWithZk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://D:/maven-repository/org/apache/curator/curator-recipes/4.0.1/curator-recipes-4.0.1.pom">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/RpcProxyServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="-510">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -736,38 +805,191 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java">
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/RpcService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="369">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-repository/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE.jar!/org/springframework/context/ApplicationContextAware.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-repository/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/factory/InitializingBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/PaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/ZkConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-repository/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.jar!/org/apache/curator/framework/imps/CreateBuilderImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="433" column="53" lean-forward="true" selection-start-line="433" selection-start-column="53" selection-end-line="433" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#44837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-repository/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.jar!/org/apache/curator/framework/imps/CuratorFrameworkImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="141" column="50" lean-forward="true" selection-start-line="141" selection-start-column="50" selection-end-line="141" selection-end-column="50" />
+          <folding>
+            <element signature="e#24782#24783#0" expanded="true" />
+            <element signature="e#24821#24822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-repository/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.jar!/org/apache/curator/framework/CuratorFrameworkFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="e#11122#11123#0" expanded="true" />
+            <element signature="e#11169#11170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-repository/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.jar!/org/apache/curator/framework/api/PathAndBytesable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-repository/org/apache/zookeeper/zookeeper/3.5.3-beta/zookeeper-3.5.3-beta.jar!/org/apache/zookeeper/CreateMode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-repository/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE.jar!/org/springframework/context/support/ApplicationContextAwareProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/IRegistryCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/registry/RegistryCenterWithZk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/PaymentServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/HelloServiceImpl2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="488">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rpc-server-provider/pom.xml">
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/Bootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="390">
+          <caret line="13" column="73" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/SpringConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="181">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="47" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#423#424#0" expanded="true" />
             <element signature="e#467#468#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/GpRpcServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="58" column="59" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+            <element signature="e#1774#2314#0" expanded="true" />
+            <element signature="e#2313#2314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/main/java/com/gupaoedu/vip/ProcessorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc-server-provider/src/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>

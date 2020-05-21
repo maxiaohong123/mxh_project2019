@@ -1,0 +1,5 @@
+com\gupaoedu\vip\User.class
+com\gupaoedu\vip\RpcRequest.class
+com\gupaoedu\vip\App.class
+com\gupaoedu\vip\IHelloService.class
+com\gupaoedu\vip\IPaymentService.class
